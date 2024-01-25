@@ -20,7 +20,7 @@ Some of the technologies being used: Docker Compose for containerization, Vite f
 How it works:
 <video src="https://github.com/mrzdev/loungebot-demo/assets/106373816/e539c66d-8a58-4716-997b-52f7ae9302db"></video>
 
-Current changes:
+Current state:
 ![demo1](https://github.com/mrzdev/loungebot-demo/assets/106373816/dd5ac463-2a4d-4d62-9ced-9f5553fc4ecb)
 ![demo2](https://github.com/mrzdev/loungebot-demo/assets/106373816/8c1c22b9-590f-4d3d-bfe2-9beced5f3c73)
 ![demo3](https://github.com/mrzdev/loungebot-demo/assets/106373816/0ac07a8e-719d-4d88-9a88-9ea1ebe4b004)
